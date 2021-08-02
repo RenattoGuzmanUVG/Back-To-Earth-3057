@@ -1,12 +1,12 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+Bienvenido a Back to Earth, un juego en el cual te encontrarás esquivando 
+asteroides y destruyéndolos con cañones láser para poder cumplir con tu 
+misión: Llegar a la Tierra atrvesando el mayor cinturón de asteroides de 
+la historia.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Back To Earth 2057
+VERSION or DATE: 2/08/2021
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+AUTHORS: Renatto Esteban Guzmán Sosa 21646
+USER INSTRUCTIONS: Para moverse usar "W" y "S" y para dispara usar la tecla "espacio".
