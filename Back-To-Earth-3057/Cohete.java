@@ -53,7 +53,6 @@ public class Cohete extends Actor
             w.addObject(gameover, 300, 200);
             
             w.removeObject(this);
-            //w.removeObject(asteroide);
         }
     }
 }
